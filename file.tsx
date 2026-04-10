@@ -1,5 +1,5 @@
 const a = 'a';
 const b = 'a';
-const c = 'a';
+//frontend is good
 const d = 'a';
 const e = 'a';
