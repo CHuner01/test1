@@ -1,8 +1,4 @@
 const d = 'a';
 const e = 'a';
 
-// feat1
-// feat2
-// feat3
-// feat4
-// feat5
+// feat1 commit2
